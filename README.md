@@ -1,4 +1,4 @@
-## Olá, Mun- Opá força do hábito😅. Olá, Me chamo Mateus!  👋
+## Olá, Mun-, Opá força do hábito😅 <br>Me chamo Mateus Roberto!
 
 - 🔭 Apenas Estudante
 - 🌱 Estou estudando JavaScript
@@ -19,12 +19,11 @@
 
 
 
- <div style="display: inline-block;">
-   <ul>
-     <li><a href="https://www.youtube.com/@mateusrsz" target="_blank">Youtube</a>
-     <li><a href="https://www.instagram.com/mateus_sem_aga/" target="_blank">Instagram</a>
-     <li><a href="" target="_blank"></a>
-     <li><a href="" target="_blank"></a>
+ 
+   <ul type='none'>
+     <li><a href="https://www.youtube.com/@mateusrsz" target="_blank"><img alt="youtube" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/youtube.svg"></a>
+     <li><a href="https://www.instagram.com/mateus_sem_aga/" target="_blank"><img alt="Instagram" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/colored/instagram.svg"></a>
+     <li><a href="https://github.com/MateusRsz/" target="_blank"><img alt="GitHub" src="https://raw.githubusercontent.com/CLorant/readme-social-icons/1a078b4b319beaa7fbcd202fa7fc1fc5d79d94d2/large/filled/github.svg"></a>
    </ul>
- </div>
+ 
  
