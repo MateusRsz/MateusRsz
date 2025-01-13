@@ -21,10 +21,10 @@
 
  <div style="display: inline-block;">
    <ul>
-     <li><a href="https://www.youtube.com/@mateusrsz" target=""_blank>Youtube</a>
-     <li><a href="https://www.instagram.com/mateus_sem_aga/" target=""_blank>Instagram</a>
-     <li><a href="" target=""_blank></a>
-     <li><a href="" target=""_blank></a>
+     <li><a href="https://www.youtube.com/@mateusrsz" target="_blank">Youtube</a>
+     <li><a href="https://www.instagram.com/mateus_sem_aga/" target="_blank">Instagram</a>
+     <li><a href="" target="_blank"></a>
+     <li><a href="" target="_blank"></a>
    </ul>
  </div>
  
