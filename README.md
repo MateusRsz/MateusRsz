@@ -1,16 +1,27 @@
-## Hi there 👋
+## Olá, Mun- Opá força do hábito😅. Olá, Me chamo Mateus!  👋
 
-<!--
-**MateusRsz/MateusRsz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Apenas Estudante
+- 🌱 Estou estudando JavaScript
+- 📫 Contate-me pelo:ex@gmail.com
+- 😄 Pronouns: ele/dele
 -->
+ <div>
+   <a href="https://github.com/MateusRsz"></a>
+   <img height="180em" src='https://github-readme-stats.vercel.app/api?username=MateusRsz&show_icons=true&theme=dracula&include_all_conmits=true&count_private=true'/>
+   <img height="180em" src='https://github-readme-stats.vercel.app/api/top-langs/?username=MateusRsz&layout=compact&langs_count=16&theme=dracula'/>
+ </div>
+<div style="display: inline-block;"><br>
+<img align="center" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg">
+<img align="center" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg">
+<img align="center" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg">
+</div>
+<hr>
+ <div style="display: inline-block;">
+   <ul>
+     <li style="@import "><a href="https://www.youtube.com/@mateusrsz">Youtube</a>
+     <li><a href="https://www.instagram.com/mateus_sem_aga/" >Instagram</a>
+     <li><a href="" ></a>
+     <li><a href="" ></a>
+   </ul>
+ </div>
+ 
