@@ -16,7 +16,7 @@
 <img align="center" alt="HTML5" width="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg"> -
 <img align="center" alt="CSS3" width="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg"> -
 <img align="center" alt="JavaScript" width="60px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg"> 
-  <img alt="gifCoffe" style="width: 100px; height:0px; transform: translateX(440px);" src="https://cdn.pixabay.com/animation/2023/01/28/23/08/23-08-38-499_512.gif">
+ 
 </div>
 
 <hr>
