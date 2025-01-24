@@ -1,5 +1,8 @@
 ## Olá, Mun- Opá força do hábito😅 <br>Oi, me chamo Mateus Roberto!
 
+
+- <strong>Um pouco sobre mim</strong>: Tenho 17 anos sou uma pessoa curiosa que gosta de aprender, estou sempre aberto para novos ensinamentos seja de quem for, pretendo ser <strong style='color: yellow;'>
+desenvolvedor Web e Mobile</strong> e Pretendo mexer com desenvolvimentos de jogos 2D
 - Estudando no momento:<br><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 - Pretendo Estudar:<br><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> <img alt="MySql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 
